@@ -1,4 +1,4 @@
-# Kimia-Farma-x-Rakamin-PBI-
+# Project Based Internship Kimia Farma x Rakamin
 Project Based Internship Big Data Analyst at Kimia Farma
 
 # Tentang Program
